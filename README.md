@@ -1,16 +1,11 @@
-### Hi there 👋
+<div>
+  <a href="https://github.com/matheuslarcher20">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuslarcher20&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslarcher20&layout=compact&langs_count=16&theme=merko"/>
+</div>
 
-<!--
-**matheuslarcher20/matheuslarcher20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="mailto:matheuslarcher20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/matheuslarcher20/matheuslarcher20/blob/output/github-contribution-grid-snake.svg)
+</div>
