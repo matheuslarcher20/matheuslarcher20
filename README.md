@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/matheuslarcher20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuslarcher20&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslarcher20&layout=compact&langs_count=16&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslarcher20&layout=compact&langs_count=16&theme=merko&include_all_commits=true&count_private=true&show_icons=true"/>
 </div>
 
 <div>
